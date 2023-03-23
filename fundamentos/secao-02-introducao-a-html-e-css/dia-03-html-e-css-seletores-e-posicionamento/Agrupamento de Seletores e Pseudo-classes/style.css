@@ -1,0 +1,47 @@
+div:hover{
+    border: 3px solid black;
+}
+.primaria{
+    background-color: blue;
+}
+.secundaria{
+    background-color: blueviolet;
+}
+.complementar{
+    background-color: orange;
+    height: 100px;
+}
+.corEscura{
+    background-color: darkcyan;
+}
+.corCLara{
+    background-color: coral;
+}
+.primeira{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: aliceblue;
+    font-style: italic;
+}
+.segunda{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    color: chartreuse;
+}
+.terceira{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 42px;
+    color: darkmagenta;
+    font-style: italic;
+}
+.quarta{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: darkseagreen;
+}
+.quinta{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 28px;
+    color: seagreen;
+    font-style: italic;
+}

@@ -1,0 +1,12 @@
+h1, p{
+    text-align: center;
+}
+ol:hover{
+    background-color: aquamarine;
+}
+li:hover{
+    color: blue;
+}
+ul, ol{
+    list-style: none;
+}
