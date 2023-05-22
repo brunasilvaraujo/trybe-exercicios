@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "vite": "^4.3.8"
+  },
+  "name": "dia-02-javascript-assincrono-promises-e-fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
